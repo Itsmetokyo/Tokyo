@@ -1,9 +1,9 @@
 {
-    "name": "Pikachu",
-    "description": "Pikachu - Whatsapp Bot",
+    "name": "Meenakshi",
+    "description": "Meenakshi - Whatsapp Bot",
     "logo": "https://i.imgur.com/W0i7oMY.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/ameer-kallumthodi/pikachu",
+    "repository": "https://github.com/vishnuserkl29/Meenakshi",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
@@ -71,8 +71,8 @@
             "required": false,
             "value": "Pikachu"
         },
-        "FULL_EVA": {
-            "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
+        "MEENU_AI": {
+            "description": "മീനാക്ഷി chat botinte active ആകുക ! Turn your account into a chatbot!",
             "required": true,
             "value": "false"
         },
