@@ -224,7 +224,7 @@
             "UPDATED": "*Updated...*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
             "AFTER_UPDATE": "*Meenakshi Restarting...♻️*"
-        },⚠️
+        },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
             "NEED_LOCATION": "* Please write a location!*\n*Example:* ```.weather New Delhi```",
