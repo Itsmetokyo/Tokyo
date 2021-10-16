@@ -45,21 +45,6 @@ Mail അയച്ചാൽ മതിയാകും
 ```
 
 
-
-
-
-## ഇക്കാച്ചി says 
-<div align="center">
-  <img border-radius: 15px src="IMG-20210921-WA1157.jpg" width="200" height="200"/>
-  <p align="center">
-
-## Remember💫
-<div align="center">
-  <img border-radius: 15px src="IMG-20210922-WA1170.jpg" width="200" height="200"/>
-  <p align="center">
-
-
-
 ###
 
 <h1 align="center">Hello Dude🙋🏻‍♀️Welcome to my Repo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>
@@ -142,13 +127,6 @@ Project created by <a href="https://github.com/vishnuserkl29">Vishnu Prasad</a> 
   
 </p>
   
-
-<div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuserkl29&show_icons=true&theme=nightowl" alt="vishnuserkl29" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuserkl29&theme=nightowl" alt="vishnuserkl29" /></p>
-</details> </div>
-
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
