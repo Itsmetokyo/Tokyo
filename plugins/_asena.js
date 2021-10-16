@@ -72,7 +72,7 @@ if (Config.WORKTYPE == 'private') {
 }));
 
 /*slf*/
-Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
+Asena.addCommand({pattern: 'meenuhelp ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
     var CMD_HELP = '';
     if (match[1] === '') {
         Asena.commands.map(
@@ -138,7 +138,7 @@ Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: true, dontAddCommandList: true
 }
 else if (Config.WORKTYPE == 'public') {
 
-    Asena.addCommand({pattern: 'list ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({pattern: 'meenuhelp ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
     var CMD_HELP = '';
     if (match[1] === '') {
         Asena.commands.map(
@@ -203,7 +203,7 @@ else if (Config.WORKTYPE == 'public') {
 }));
 
 /*slf*/
-Asena.addCommand({pattern: 'phelp ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+Asena.addCommand({pattern: 'meenuhelp ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
     var CMD_HELP = '';
     if (match[1] === '') {
         Asena.commands.map(
