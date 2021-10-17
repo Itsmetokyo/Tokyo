@@ -85,6 +85,10 @@
             "description": "Herokuda API Keyiniz. Heroku API Key.",
             "required": true
         },
+         "PASSWORD_GIB": {
+            "description": "enter the password (Password ഉണ്ടെങ്കിലേ bot work ആവുകയുള്ളു 💕, to get password Contact +916235989299.",
+            "required": true
+        },
         "MUTE_MESSAGE": {
             "description": "Düzenlenebilir Mute Mesajı. Customizable Mute Message! Use => default, to change back.",
             "required": false,
