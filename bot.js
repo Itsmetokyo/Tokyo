@@ -109,9 +109,9 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
             chalk.blueBright.italic('Confirming password...')
         );
         if (config.MEENUSC == 'AISHU' || config.MEENUSC == 'aishu' || config.MEENUSC == 'Aishu' || config.AFPLK == 'subbu') {
-        //thanks to afnanplk
+        //haseen myran
         console.log(
-            chalk.green.bold('Thanks for using... -password successfully validated✅-')
+            chalk.green.bold('Thanks for using...👍🏻password successfully validated✅-')
         );
          }
          else if (config.MEENUSC !== 'AISHU' || config.MEENUSC !== 'aishu' || config.MEENUSC !== 'Aishu' || config.MEENUSC !== 'subbu') {
@@ -148,7 +148,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Meenakshi Ok Running! 💕Vishnu ser oru bhayankaran thanne')
+            chalk.green.bold('Meenakshi Ok Running! 💕 Vishnu ser oru bhayankaran thanne')
         );
     });
     
