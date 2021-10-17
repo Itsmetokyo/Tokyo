@@ -105,6 +105,21 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         console.log(
             chalk.green.bold('✅ Login successful!')
         );
+        console.log(
+            chalk.blueBright.italic('Confirming password...')
+        );
+        if (config.MEENUSC == 'AISHU' || config.MEENUSC == 'aishu' || config.MEENUSC == 'Aishu' || config.AFPLK == 'subbu') {
+        //thanks to afnanplk
+        console.log(
+            chalk.green.bold('Thanks for using... -password successfully validated✅-')
+        );
+         }
+         else if (config.MEENUSC !== 'AISHU' || config.MEENUSC !== 'aishu' || config.MEENUSC !== 'Aishu' || config.MEENUSC !== 'subbu') {
+         console.log(
+            chalk.red.bold('make sure you have typed the correct password'));
+         throw new Error("Password Error ⚠⚠ ");         
+         return; //created by vishnuser/afnanplk
+         }
 
         console.log(
             chalk.blueBright.italic('⬇️ Installing external plugins...')
