@@ -41,6 +41,11 @@
             "required": true,
             "value": "false"
         },
+        "OFFENSIVE_BLK": {
+            "description": "മീനാക്ഷിയെ തെറി വിളിച്ചാൽ BLOCK ചെയ്യും !",
+            "required": true,
+            "value": "false"
+        },
         "AUTO_BİO": {
             "description": "Duruma otomatik tarih ve zaman eklemek için true yapın. Set true for auto date, time in biography.",
             "required": true,
