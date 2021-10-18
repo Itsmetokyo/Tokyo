@@ -43,7 +43,7 @@ Asena.addCommand({pattern: 'check update$', fromMe: true, dontAddCommandList: tr
     }
 }));
 
-Asena.addCommand({pattern: 'install update$', fromMe: true,dontAddCommandList: true, desc: Lang.UPDATE_NOW_DESC}, (async (message, match) => {
+Asena.addCommand({pattern: 'update meenu$', fromMe: true,dontAddCommandList: true, desc: Lang.UPDATE_NOW_DESC}, (async (message, match) => {
     await git.fetch();
     var commits = await git.log([Config.BRANCH + '..origin/' + Config.BRANCH]);
     if (commits.total === 0) {
