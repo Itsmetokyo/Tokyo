@@ -44,26 +44,6 @@ Mail അയച്ചാൽ മതിയാകും
 തരും 👍👍
 ```
 
-
-###
-
-<h1 align="center">Hello Dude🙋🏻‍♀️Welcome to my Repo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>
-<p align="center">
-
-## 📢Introduce myself
-
-- 🙂 I'm Vishnu Prasad
-- 🚩 I'm a beginner in this field
-- 📍 From Cheravally,Kayamkulam,Kerala,🇮🇳
-- 🎮 BGMI player (ID:5444486441)
-- 🏫 High School at Sree Narayana Central School,Kayamkulam
-- 🏫 Now I'm studying Diploma in Mechanical Engineering at Carmel Polytechnic College,Punnapra
-
-```
-This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more useful to you
-```
-
-
 ### 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐒𝐭𝐚𝐭𝐮𝐬 ⚠️
 ```
 𝙰𝚌𝚝𝚒𝚟𝚎 🟢
@@ -72,8 +52,8 @@ This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more use
 ## 𝐋𝐚𝐭𝐞𝐬𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🙋🏻‍♀️
 
 - ✅ New Baileys version updated (3.5.2) @adiwajshing/baileys
-- ✅ New QR updated
-- ✅ Aco Artifical Intelligence...
+- ✅ Song Details finder
+- ✅ Meenakshi Artifical Intelligence...
 
 ```
    Last Update : 21/Aug/2021 - 11:52am
