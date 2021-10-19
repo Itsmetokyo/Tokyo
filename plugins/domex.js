@@ -1,12 +1,12 @@
-const Asena = require('../events');
+const Meenu = require('../events');
 const { MessageType } = require('@adiwajshing/baileys');
 const got = require('got');
 const Config = require('../config');
-const LOAD_ING = "*RESULT FOUND UPLOADING...* \n\n *🛑SONG IS UNDER MAINTAINCE🛑*"
+const LOAD_ING = "*Result found uploading...* \n\n *🛑Song API is under maintenace🛑*"
 const axios = require('axios')
 
 
-Asena.addCommand({pattern: 'play ?(.*)', fromMe: false, desc: 'play song' , dontAddCommandList: true }, async (message, match) => {
+Meenu.addCommand({pattern: 'play ?(.*)', fromMe: false, desc: 'play song' , dontAddCommandList: true }, async (message, match) => {
 	
 	await message.client.sendMessage(message.jid, '*SEARCHING YOU DATA*' , MessageType.text, { quoted: message.data });
 	
