@@ -129,6 +129,9 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./nrithyadevu/kan
         if (!!message.mention && message.mention[0] == '919061418346@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./nrithyadevu/kang3.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted: message.data, ptt: true})
         }
+        if (!!message.mention && message.mention[0] == '919061418346@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./nrithyadevu/kang4.m4a'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted: message.data, ptt: true})
+        }
 const array = ['srinisha','Hi','set','love','line','para','akka']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
@@ -158,6 +161,9 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/kang.we
     }
     if (!!message.mention && message.mention[0] == '919061418346@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/kang2.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
+    }
+    if (!!message.mention && message.mention[0] == '919061418346@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/kang4.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
 const array = ['Pikachu','Msd','Vijay','Rashmika','Sry','Line','Aarulle','achodaa','ayin','Aysheri','Ayye','Ayyo','broken','bye','chattho','cute','Da','Eee','engane und','Entha','Enthada','Girls','Good morning','Good night','Hi','Hy','ithokke enth','ivan','Kurippe','Kurumb','Love','Mm','naanam','nadakkatte','Ok','paavam','Pattumo','pikachu','Pm','poda','Pova','Save','setth','sho','Shoo','Smile','tag','Udayipp','umma','Vaa','Vannu','yo','ys','Bye','Muthe','Police','Teach','Thech','Z','aayo','alla','anthas','aysheri','bie','bye','chathu','cheyalle','chunk','committed','mama','marichu','mention','mood','muthe','myre','njan','number','ok','oombi','ooo','pedicho','pidi','poweresh','sad','saved','sed','shaad','shut','teach','test','thech','think','thund','umma','uyir','vannu','vibe','z','dead','JulieMwol','Like','pever','sry','night','indo','uff','eh','poyi','scene','killadi','nee alle','sheri','vada','poocha','morning','pm','thund','remove','Sed','araa','madthu','Hlo','air','Bomb','Julie','myr','fan','charge']
 array.map( async (a) => {
