@@ -1,7 +1,7 @@
 ## Warning ⚠️
 
 ```
-Due to usage of Meenakshi; Your WhatsApp account may be banned.
+Due to usage of TokyoBot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, Meenakshi developer do not accept responsibility.
 By establishing the Meenakshi, you are deemed to have accepted these responsibilities.
@@ -15,11 +15,11 @@ Your account may be banned for the following reasons:
 ## മുന്നറിയിപ്പ് ✅️
 
 ```
-Meenakshi കാരണം; നിങ്ങളുടെ WhatsApp അക്കൗണ്ട് നിരോധിച്ചേക്കാം.
-(Ban ആവാൻ ഉള്ള കാരണം ചുവടെ കൊടുത്തിട്ടുണ്ട്, വായിച്ചു നോക്കിയിട്ട് മീനാക്ഷിയെ ഉപയോഗിക്കുക!)
+TokyoBot കാരണം; നിങ്ങളുടെ WhatsApp അക്കൗണ്ട് നിരോധിച്ചേക്കാം.
+(Ban ആവാൻ ഉള്ള കാരണം ചുവടെ കൊടുത്തിട്ടുണ്ട്, വായിച്ചു നോക്കിയിട്ട് ബോട്ടിനെ ഉപയോഗിക്കുക!)
 ഇതൊരു ഓപ്പൺ സോഴ്‌സ് പ്രോജക്റ്റാണ്, നിങ്ങൾ ചെയ്യുന്ന എല്ലാത്തിനും നിങ്ങൾ തന്നെയാണ്
-ഉത്തരവാദികൾ 👍തീർച്ചയായും, മീനാക്ഷിയെ നിർമിച്ചയാൾ ഉത്തരവാദിത്തം ഏറ്റെടുക്കുന്നില്ല
-മീനാക്ഷിയെ നിങ്ങളുടെ WhatsApp അക്കൗണ്ടുമായിട്ട് connect ചെയ്താൽ
+ഉത്തരവാദികൾ 👍തീർച്ചയായും, ബോട്ടിനെ നിർമിച്ചയാൾ ഉത്തരവാദിത്തം ഏറ്റെടുക്കുന്നില്ല
+ബോട്ടിനെ നിങ്ങളുടെ WhatsApp അക്കൗണ്ടുമായിട്ട് connect ചെയ്താൽ
 നിങ്ങൾ ഈ ഉത്തരവാദിത്തങ്ങൾ സ്വീകരിച്ചതായി കണക്കാക്കപ്പെടുന്നു.
 
 ഇനിപ്പറയുന്ന കാരണങ്ങളാൽ നിങ്ങളുടെ അക്കൗണ്ട് നിരോധിച്ചേക്കാം:
@@ -70,14 +70,14 @@ Mail അയച്ചാൽ മതിയാകും
   <p align="center">
 
 
-<a href="#"><img title="Meenakshi" src="https://img.shields.io/badge/Meenakshi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Meenakshi" src="https://img.shields.io/badge/Tokyo-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/vishnuserkl29"><img title="Author" src="https://img.shields.io/badge/Author-vishnuserkl29/Meenakshi?color=pink&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/itsmetokyo"><img title="Author" src="https://img.shields.io/badge/Author-itsmetokyo/Tokyo?color=pink&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/vishnuserkl29">Vishnu Prasad</a> to make it public
+Project created by <a href="https://github.com/itsmetokyo">Midhlaj Mohd</a> to make it public
     <br>
        | © |
         Reserved |
