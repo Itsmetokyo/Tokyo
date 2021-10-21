@@ -143,8 +143,8 @@
         "ocr": {
             "OCR_DESC": "Reads the text on the photo you have replied.",
             "NEED_REPLY": "*Reply to a photo!*",
-            "DOWNLOADING": "```Media is downloading & reading...```",
-            "ERROR": "```I couldn't read this :/```\n*Error:*```{}```\n Contact wa.me/916235989299```",
+            "DOWNLOADING": "```Media is downloading & reading text...```",
+            "ERROR": "```I couldn't read this text :/```\n*Error:*```{}```\n Contact wa.me/916235989299```",
             "RESULT": "*Language:* ```{}```\n*Here is what I read:* ```{}```"
         },
         "profile": {
@@ -168,7 +168,7 @@
             "REMOVEBG_DESC": "Removes the background of the photos.",
             "NEED_PHOTO": "*photo thaa mister!*",
             "NO_API_KEY": "*API is not given set APi key first*\n```remove.bg login for apikey```",
-            "RBGING": "```Removing background...```"
+            "RBGING": "*Removing Background image...*"
         },
         "scrapers": {
             "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
@@ -190,13 +190,13 @@
             "UPLOADING_SONG": "```Uploading your song 📲 Use 🎧```",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Downloading 🎥...```",
-            "UPLOADING_VIDEO": "```Uploading...```",
+            "DOWNLOADING_VIDEO": "*Downloading video⬆️...*",
+            "UPLOADING_VIDEO": "*Uploading video...⬇️*",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
-            "GETTING_VIDEOS": "```I'm bringing videos...```",
+            "GETTING_VIDEOS": "```I'm bringing videos😊...```",
             "NOT_FOUND": "*Not found ☹️*",
-            "SEARCHING": "*🔎 Searching...*",
+            "SEARCHING": "*🔎 Searching Wikipedia...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
             "IMG": "```Uploading photo``` *{}* ```number``` *{}*"
@@ -219,9 +219,9 @@
             "UPDATE": "*I'm running with latest version of WhatsMeenu!🙎🏻‍♀️*",
             "NEW_UPDATE": "*WhatsMeenu Update Available👩🏻‍💼*\n\n Please ask developer before updating🤷🏼‍♀️...Otherwise get to chance error⚠️\n wa.me/916235989299 \n wa.me/918891714036 \n\n 👰🏻 Changes:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```Updating...It may be take few Minutes...```",
+            "UPDATING": "*Connected to master branch and downloading the latest version of WhatsMeenu⬇️*",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*Updated🙅🏼‍♀️...*",
+            "UPDATED": "*Updated WhatsMeenu🙅🏼‍♀️...*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
             "AFTER_UPDATE": "*Meenakshi Restarting...♻️*"
         },
